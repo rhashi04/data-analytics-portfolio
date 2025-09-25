@@ -5,6 +5,9 @@ I am currently pursuing my M.S. in Data Science & Business Analytics, and I use 
 
 Tools & Skills
 Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch)
+
 Databases: SQL, MySQL
+
 Visualization: Tableau, Excel, PowerBI
+
 Other: Git/GitHub, APIs, Data Cleaning, Statistical Analysis
