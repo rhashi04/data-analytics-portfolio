@@ -5,8 +5,11 @@ I am currently pursuing my M.S. in Data Science & Business Analytics, and I use 
 
 Projects
 1. 🩺 Diabetes Prediction
+
 Goal: Build a machine learning model to predict whether a patient is at risk for diabetes based on health indicators.
+
 Skills: Python (Pandas, Scikit-learn, Matplotlib, Seaborn), Data Preprocessing, Logistic Regression, Random Forest, XGBoost.
+
 Key Highlights:
 Achieved high accuracy using classification models.
 Identified strong correlations between BMI, glucose levels, and diabetes risk.
