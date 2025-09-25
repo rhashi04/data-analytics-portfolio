@@ -4,6 +4,7 @@ This repository showcases projects that demonstrate my skills in data cleaning, 
 I am currently pursuing my M.S. in Data Science & Business Analytics, and I use this space to document projects that highlight my ability to solve problems with data and communicate insights effectively.
 
 Tools & Skills
+
 Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch)
 
 Databases: SQL, MySQL
